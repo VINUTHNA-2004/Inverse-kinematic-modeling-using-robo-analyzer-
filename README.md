@@ -56,7 +56,7 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 
 ### Output
-[Output!](https://github.com/VINUTHNA-2004/Inverse-kinematic-modeling-using-robo-analyzer-/blob/main/i1.png?raw=true)
+![Output](https://github.com/VINUTHNA-2004/Inverse-kinematic-modeling-using-robo-analyzer-/blob/main/i1.png?raw=true)
  
  
  
